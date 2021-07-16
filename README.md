@@ -2,7 +2,4 @@
 
 
 
-##### Clone da interface da netflix as funcionalidades da página ainda não foram adicionadas, as mesmas serão adicionadas posteriormente.
-
-
-
+##### Clone da interface da netflix, as funcionalidades da página ainda não foram adicionadas, serão adicionadas posteriormente.
